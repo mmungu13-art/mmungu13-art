@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+This file contains files for CIS 300 Project Assignments.
 <!--
 **mmungu13-art/mmungu13-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
