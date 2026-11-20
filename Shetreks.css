@@ -1,11 +1,4 @@
-:root {
-  --text: #5d5b67;
-  --background: #ffffff;
-  --primary: #80a027;
-  --secondary: #ffdbf1;
-  --accent: #2e700a;}
-* {
-  box-sizing: border-box;}
+* {box-sizing: border-box;}
 body {
   background-color: #EAEAEA;
   color: #555555;
@@ -44,6 +37,17 @@ nav a {
   color: #ffffff;
   font-weight: bold;
   text-decoration: none;}
+.intro {
+  background-color: #ffdbf1;          
+  border-left: 6px solid #80a027;     
+  padding: 1.25rem 1.5rem;
+  margin-bottom: 2rem;                
+  text-align: center;
+}
+.intro p {
+  margin: 0;
+  font-size: 1.1rem;
+}
 nav a:hover {
   background: #2e700a;}
 .row {
